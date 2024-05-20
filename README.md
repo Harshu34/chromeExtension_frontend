@@ -22,7 +22,7 @@ This README provides an overview and instructions for a React.js website with va
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/Prince0000/bookmark_frontend
+   git clone https://github.com/Harshu34/chromeExtension_frontend/
    cd bookmark_frontend
    ```
 
